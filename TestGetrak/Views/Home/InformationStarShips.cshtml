@@ -1,0 +1,32 @@
+﻿@model List<TestGetrak.Domain.Contract.Entities.StarShips>;
+@{
+    ViewData["Title"] = "InformationStarShips";
+}
+
+<h2>InformationStarShips</h2>
+
+<form method="post" asp-controller="Home" asp-action="InformationStarShipsWithDistance">
+    <label>Distância a ser percorrida:</label>
+    <input type="text" id="distance" name="distance" />
+    <button type="submit">Calcular</button>
+</form>
+<br />
+
+<table class="table">
+    <tr>
+        <td scope="col">Nome</td>
+        <td scope="col">MGLT</td>
+        <td scope="col">Consumíveis</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        foreach (var starShip in item.results)
+        {
+            <tr>
+                <td scope="row">@starShip.name</td>
+                <td>@starShip.MGLT</td>
+                <td>@starShip.consumables</td>
+            </tr>
+        }
+    }
+</table>

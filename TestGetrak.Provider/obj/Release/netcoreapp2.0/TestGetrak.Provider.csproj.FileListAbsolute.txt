@@ -1,0 +1,12 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\bin\Release\netcoreapp2.0\TestGetrak.Provider.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\bin\Release\netcoreapp2.0\TestGetrak.Provider.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\bin\Release\netcoreapp2.0\TestGetrak.Provider.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\bin\Release\netcoreapp2.0\TestGetrak.Domain.Contract.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\bin\Release\netcoreapp2.0\TestGetrak.Domain.Contract.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.csproj.CopyComplete
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Provider\obj\Release\netcoreapp2.0\TestGetrak.Provider.pdb

@@ -1,0 +1,16 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.runtimeconfig.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.runtimeconfig.dev.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.Domain.Contract.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.Provider.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.Domain.Contract.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\bin\Release\netcoreapp2.0\TestGetrak.Provider.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.csproj.CopyComplete
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\obj\Release\netcoreapp2.0\TestGetrak.pdb

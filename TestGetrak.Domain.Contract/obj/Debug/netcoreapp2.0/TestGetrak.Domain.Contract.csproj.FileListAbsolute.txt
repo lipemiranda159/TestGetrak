@@ -1,0 +1,9 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\bin\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\bin\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\bin\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\obj\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\obj\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\obj\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\obj\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\obj\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak.Domain.Contract\obj\Debug\netcoreapp2.0\TestGetrak.Domain.Contract.csprojAssemblyReference.cache

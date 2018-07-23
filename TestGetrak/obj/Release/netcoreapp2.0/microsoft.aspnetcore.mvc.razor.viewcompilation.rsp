@@ -1,0 +1,13 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TestGetrak
+--content-root=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Home\Contact.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Home\Index.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Home\InformationStarShips.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Home\InformationStarShipsWithDistance.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Shared\Error.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Shared\_Layout.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\_ViewImports.cshtml
+--file=C:\Users\Felipe\Documents\Visual Studio 2017\Projects\TestGetrak\TestGetrak\Views\_ViewStart.cshtml

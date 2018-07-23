@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "InformationStarShipsWithDistance";
+}
+
+<h2>Distância: @ViewBag.distance</h2>
+
+<table class="table">
+    <tr>
+        <td scope="col">Nome</td>
+        <td scope="col">MGLT</td>
+        <td scope="col">Consumíveis</td>
+        <td scope="col">Paradas</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        foreach (var starShip in item.results)
+        {
+            <tr>
+                <td scope="row">@starShip.name</td>
+                <td>@starShip.MGLT</td>
+                <td>@starShip.consumables</td>
+                <td>@starShip.stops</td>
+            </tr>
+}
+    }
+</table>
+
+
